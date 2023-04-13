@@ -1,0 +1,28 @@
+{
+  "name": "eslint-plugin-strictstrings",
+  "version": "1.0.0",
+  "description": "enforce no spaces in single quotes and spaces in double quotes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/404invalid-user/eslint-plugin-strictstrings.git"
+  },
+  "keywords": [
+    "eslint",
+    "eslintplugin",
+    "strings",
+    "quotes"
+  ],
+  "author": "404invalid-user",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/404invalid-user/eslint-plugin-strictstrings/issues"
+  },
+  "homepage": "https://github.com/404invalid-user/eslint-plugin-strictstrings#readme",
+  "peerDependencies": {
+    "eslint": ">=0.8.0"
+  }
+}
