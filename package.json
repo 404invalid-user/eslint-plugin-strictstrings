@@ -1,6 +1,6 @@
 {
   "name": "eslint-plugin-strictstrings",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "enforce no spaces in single quotes and spaces in double quotes",
   "main": "index.js",
   "scripts": {
